@@ -34,10 +34,13 @@
 <p>
     <img src="https://img.shields.io/badge/React JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
+   
+  ```
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" />
     <img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="material-ui" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/sass%20(1).png" alt="sass" />
+  ```
 </p>
 
 
@@ -48,13 +51,6 @@
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(2)%20(3).png" alt="DRF" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(1)%20(1).png" alt="django" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
-</p>
-
-
-
-<h3>Mobile Framework </h3>
-<p>
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactnative" />
 </p>
 
 
