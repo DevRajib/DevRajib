@@ -13,7 +13,7 @@
   <h3>Hi, I'm Md Najmul Hoda. In short  Rajib </h3>
   
   <p>
-Hello World, I am M N Hoda, 3+ yrs of experienced DevOps engineer to assist with various environment configuration and maintenance tasks on an on-demand basis. My superpowers are honesty, accuracy, and fast delivery while always giving top-quality service.
+I am 3+ yrs of experienced DevOps engineer to assist with various environment configuration and maintenance tasks on an on-demand basis. My superpowers are honesty, accuracy, and fast delivery while always giving top-quality service.
   </P> 
   
 </div>
