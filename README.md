@@ -99,17 +99,17 @@ I am 3+ yrs of experienced DevOps engineer to assist with various environment co
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 <h2><i>My GitHub Stats</i></h2>
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajibsandy&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="rajibsandy" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajibsandy&layout=compact&border_radius=0&theme=dark" alt="rajibsandy" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=DevRajib&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="DevRajib" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevRajib&layout=compact&border_radius=0&theme=dark" alt="DevRajib" height="139" />
 </p>
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
     <a href="https://github.com/rajibsandy">
-        <img src="https://komarev.com/ghpvc/?username=rajibsandy&label=Profile%20views&color=0e75b6&style=flat" alt="rajibsandy" />
+        <img src="https://komarev.com/ghpvc/?username=DevRajib&label=Profile%20views&color=0e75b6&style=flat" alt="DevRajib" />
     </a>
-    <a href="https://github.com/rajibsandy?tab=followers">
+    <a href="https://github.com/DevRajib?tab=followers">
         <img src="https://img.shields.io/github/followers/rajibsandy?label=Followers&style=social" alt="followers-count">
     </a>
 </p>
