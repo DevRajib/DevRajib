@@ -8,7 +8,7 @@
 <div>
   <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/MonitorARMS-DecorationBD_400x400-removebg-preview.png">
   <a href="https://github.com/rajibsandy?tab=followers">
-     <img align="right" src="https://img.shields.io/github/followers/rajibsandy?label=Followers&style=social" alt="followers-count">
+     <img align="right" src="https://img.shields.io/github/followers/DevRajib?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Md Najmul Hoda. In short  Rajib </h3>
   
@@ -106,7 +106,7 @@ I am 3+ yrs of experienced DevOps engineer to assist with various environment co
 <!----------------------------------- Profile View Section ------------------------------------>
 
 <p align="left">
-    <a href="https://github.com/rajibsandy">
+    <a href="https://github.com/DevRajib">
         <img src="https://komarev.com/ghpvc/?username=DevRajib&label=Profile%20views&color=0e75b6&style=flat" alt="DevRajib" />
     </a>
     <a href="https://github.com/DevRajib?tab=followers">
