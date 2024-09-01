@@ -7,7 +7,7 @@
 <!----------------------------------- About Section ------------------------------------>
 <div>
   <img align="right" width="150" alt="Coding" src="https://raw.githubusercontent.com/rajibsandy/rajibsandy/main/MonitorARMS-DecorationBD_400x400-removebg-preview.png">
-  <a href="https://github.com/rajibsandy?tab=followers">
+  <a href="https://github.com/DevRajib?tab=followers">
      <img align="right" src="https://img.shields.io/github/followers/DevRajib?label=Followers&style=social" alt="followers-count">
   </a>
   <h3>Hi, I'm Md Najmul Hoda. In short  Rajib </h3>
