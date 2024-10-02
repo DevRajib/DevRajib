@@ -56,9 +56,8 @@ I am 3+ yrs of experienced DevOps engineer to assist with various environment co
 <p>
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="django" />
     <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(2)%20(3).png" alt="DRF" />
-  
-    <img src="https://github.com/rajibsandy/rajibsandy/blob/main/Django%20REST%20framework%20(1)%20(1).png" alt="django" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" />
+  
 </p>
 
 
